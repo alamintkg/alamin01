@@ -1,0 +1,39 @@
+.a{
+    background-color: mediumseagreen;
+}
+
+.b{
+    background-color: rgb(167, 231, 229);
+}
+
+.c{
+    background-color: rgb(166, 231, 92);
+}
+
+.d{
+    background-color: olivedrab;
+}
+
+.e{
+    background-color: paleturquoise;
+}
+.x{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button{
+    
+}
+.place1{
+    border: 2px solid magenta;
+    border-radius: 20px;
+    margin: 10px;
+    width: 30%;
+    height: 250px;           
+    float: left;
+}
+.senter{
+    text-align: center;
+}
+p{
+    text-align:justify;
+}
