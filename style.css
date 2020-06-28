@@ -19,6 +19,7 @@
 }
 .x{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
 }
 .button{
     
@@ -30,10 +31,22 @@
     width: 30%;
     height: 250px;           
     float: left;
+    padding: 10px;
+    padding-top: 10px;
 }
 .senter{
     text-align: center;
 }
 p{
     text-align:justify;
+}
+.b{
+    height: 350px;
+    width: 1000px;
+    margin-left: 150px;
+    padding: 50px;
+    border-radius: 30px;
+}
+.q{
+    background-color: #c6efe1;
 }
